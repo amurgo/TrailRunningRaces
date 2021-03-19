@@ -169,3 +169,86 @@ TimedPromise/<@chrome://marionette/content/sync.js:231:19
 TimedPromise@chrome://marionette/content/sync.js:216:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616114885047	Marionette	INFO	Stopped listening on port 63331
+1616114899961	geckodriver	INFO	Listening on 127.0.0.1:54830
+1616114902988	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileP9q5N7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616114906332	Marionette	INFO	Listening on port 54840
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616114906831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=83af44c5de6a7ad89a24a2f91a858d36, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=83af44c5de6a7ad89a24a2f91a858d36, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=83af44c5de6a7ad89a24a2f91a858d36, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616173141741	Marionette	INFO	Stopped listening on port 54840
+6116011895	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileFjq8gJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616116017116	Marionette	INFO	Listening on port 56851
+1616116017372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=83af44c5de6a7ad89a24a2f91a858d36, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616173140371	Marionette	INFO	Stopped listening on port 56851
+6116031933	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileikRjBT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616116036855	Marionette	INFO	Listening on port 57004
+1616116036885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=83af44c5de6a7ad89a24a2f91a858d36, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=83af44c5de6a7ad89a24a2f91a858d36, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616173139283	Marionette	INFO	Stopped listening on port 57004
+1616173656617	geckodriver	INFO	Listening on 127.0.0.1:58641
+1616173659657	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileROYpVx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616173663547	Marionette	INFO	Listening on port 58657
+1616173664008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=0b5e5996c2d4d5ef153c29405caa6952, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=0b5e5996c2d4d5ef153c29405caa6952, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616174103379	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616174193449	Marionette	INFO	Stopped listening on port 58657
+1616174793095	geckodriver	INFO	Listening on 127.0.0.1:61116
+1616174796119	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofile4mktqp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616174800164	Marionette	INFO	Listening on port 61124
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616174800509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=0b5e5996c2d4d5ef153c29405caa6952, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=0b5e5996c2d4d5ef153c29405caa6952, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: , line 0: uncaught exception: Object
+1616175166440	Marionette	INFO	Stopped listening on port 61124

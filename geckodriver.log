@@ -1,0 +1,171 @@
+1616111678695	geckodriver	INFO	Listening on 127.0.0.1:59922
+1616111844982	geckodriver	INFO	Listening on 127.0.0.1:60082
+1616112218176	geckodriver	INFO	Listening on 127.0.0.1:60380
+1616112221208	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileqFNG4A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616112224324	Marionette	INFO	Listening on port 60390
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616112224454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616112341818	Marionette	INFO	Stopped listening on port 60390
+6112267278	geckodriver	INFO	Listening on 127.0.0.1:60494
+1616112270322	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofilepsW5Tz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616112273168	Marionette	INFO	Listening on port 60504
+1616112273565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616112340724	Marionette	INFO	Stopped listening on port 60504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileRfmoQU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616112290250	Marionette	INFO	Listening on port 60578
+1616112290670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616112340232	Marionette	INFO	Stopped listening on port 60578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofilezPgTNQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616112339023	Marionette	INFO	Listening on port 60658
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616112339201	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser is null
+GeckoDriver.prototype.newSession@chrome://marionette/content/driver.js:910:7
+despatch@chrome://marionette/content/server.js:297:40
+execute@chrome://marionette/content/server.js:267:16
+onPacket/<@chrome://marionette/content/server.js:240:20
+onPacket@chrome://marionette/content/server.js:241:9
+_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20
+
+1616112339476	Marionette	INFO	Stopped listening on port 60658
+1616112344077	geckodriver	INFO	Listening on 127.0.0.1:60696
+1616112347137	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileTZ4qU1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616112350112	Marionette	INFO	Listening on port 60704
+1616112350389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://itra.run/js/app.js?id=63cce5278ceb1616112355802	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofile0zjhQi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unk1616112369616	Marionette	INFO	Stopped listening on port 60704
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+m: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616112358561	Marionette	INFO	Listening on port 60834
+1616112359050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=80087b19801912233fb27a061546bbb9, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616112364219	Marionette	INFO	Stopped listening on port 60834
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616112374973	geckodriver	INFO	Listening on 127.0.0.1:60961
+1616112377984	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileoueA1M"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616112380350	Marionette	INFO	Listening on port 60969
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616112380748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=80087b19801912233fb27a061546bbb9, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=80087b19801912233fb27a061546bbb9, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616112411999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616112413238	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616112425722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616112426943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1884efd3000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3500,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:353","chrome://global/content/elements/browser-custom-element.js:construct:986","chrome://global/content/elements/browser-custom-element.js:connectedCallback:291","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:396","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1737"]}] Barrier: profile-before-change
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1616113051787	Marionette	INFO	Stopped listening on port 60969
+is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616113062885	Marionette	INFO	Stopped listening on port 61554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileC9Ll3L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616113053571	Marionette	INFO	Listening on port 61703
+1616113053671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=80087b19801912233fb27a061546bbb9, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=80087b19801912233fb27a061546bbb9, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616113081712	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616113082967	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616113092201	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616113093421	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616114049372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616114112315	Marionette	INFO	Stopped listening on port 61703
+1616114116835	geckodriver	INFO	Listening on 127.0.0.1:63321
+1616114119847	mozrunner::runner	INFO	Running command: "C:\\Users\\apelaez\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apelaez\\AppData\\Local\\Temp\\rust_mozprofileDLOH0a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616114122573	Marionette	INFO	Listening on port 63331
+1616114122601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/fr_FR/sdk.js?hash=80087b19801912233fb27a061546bbb9, line 59: uncaught exception: Error: invalid version specified
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+1616114138371	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: this is undefined
+JavaScript error: https://itra.run/js/app.js?id=63cce5278cebf0344f35, line 1: TypeError: t.notifs.forEach is not a function
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=369d60b835e0e074016c098b5700a80f, line 59: uncaught exception: Error: invalid version specified
+1616114264827	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31

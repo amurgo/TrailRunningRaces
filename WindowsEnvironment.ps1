@@ -48,6 +48,8 @@ finally
     #Disable SSL checks for conda
     conda config --set ssl_verify false
 
+    Write-Host "Ensure Firefox.exe and geckodriver.exe are on the Path environment variable " -ForegroundColor Yellow
+    
     #Launch IDE
     code
 }

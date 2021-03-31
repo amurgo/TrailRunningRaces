@@ -17,6 +17,7 @@ catch
     Write-Host "Environment $EnvironmentName created."
 
     # Libraries needed
+    conda install requests -y
     conda install selenium -y
     conda install beautifulsoup4 -y
     conda install lxml -y

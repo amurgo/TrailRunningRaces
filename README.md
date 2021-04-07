@@ -12,6 +12,7 @@ Aquesta feina ha estat realitzada pels alumnes Àlex Peláez Membrado i Albert A
 * MacEnvironment.sh: Instal·lació entorn MacOS
 * Trail Running Races 2020-2029.csv: Fitxer de sortida
 * PRACTICA1.docx: Document de la pràctica
+* Trail Running Races 2020-2029.csv: Fitxer de sortida
 
 ## Disseny 
 Inicialment es parteix el període en tants subperíodes com fils d’execució desitgem i executem en paral·lel cada fil.

@@ -9,6 +9,7 @@ Aquesta feina ha estat realitzada pels alumnes Àlex Peláez Membrado i Albert A
 ## Fitxers
 * PRA1.ipynb: Fitxer amb el codi font
 * WindowsEnvironment.ps1: Instal·lació entorn Windows
+* MacEnvironment.sh: Instal·lació entorn MacOS
 * Trail Running Races 2020-2029.csv: Fitxer de sortida
 * PRACTICA1.docx: Document de la pràctica
 

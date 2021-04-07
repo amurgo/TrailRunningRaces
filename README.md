@@ -10,7 +10,22 @@ Aquesta feina ha estat realitzada pels alumnes Àlex Peláez Membrado i Albert A
 * PRA1.ipynb: Fitxer amb el codi font
 * WindowsEnvironment.ps1: Instal·lació entorn Windows
 * Trail Running Races 2020-2029.csv: Fitxer de sortida
-* PRACTICA1.pdf: Document de la pràctica
+* PRACTICA1.docx: Document de la pràctica
+
+## Disseny 
+Inicialment es parteix el període en tants subperíodes com fils d’execució desitgem i executem en paral·lel cada fil.
+
+Cada fil torna a dividir el subperíode en subperíodes de 30 dies (mesos) ja que hem detectat errors quan l’explorador manegat per Selenium carregava molts continguts. Per a cada període mensual obrim una nova instància del navegador i:
+
+•	Carreguem totes les curses del període;
+•	Amb BeutifulSoup obtenim les dades principals;
+•	Concatenem totes les dades dels mesos anteriors.
+
+Un cop han acabat els fils executats es concatenen tots els dataframes i generem la clau primària (ID, Any)
+Per a cada cursa fem una crida AJAX per a obtenir els detalls. Donat que és una execució molt ràpida 6 requests/segon no hem cregut oportú fer una execució paral·lela.
+Amb els detalls anem construint una dataframe amb la mateixa clau primària (id_course, annee) i finalment fem un merge amb l’inicial. Per acabar, exportem el dataframe a un fitxer CSV.
+
+![Figura 1: Disseny a alt nivell del procés](DOCX/Figure1.png)
 
 ## Portabilitat
 Hem elaborat scripts per a poder executar el projecte des d'entorns Windows i MacOS. Existeix un script per a cada plataforma que instal·la els entorns i les dependències automàticament.

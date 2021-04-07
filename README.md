@@ -17,15 +17,15 @@ Inicialment es parteix el període en tants subperíodes com fils d’execució 
 
 Cada fil torna a dividir el subperíode en subperíodes de 30 dies (mesos) ja que hem detectat errors quan l’explorador manegat per Selenium carregava molts continguts. Per a cada període mensual obrim una nova instància del navegador i:
 
-•	Carreguem totes les curses del període;
-•	Amb BeutifulSoup obtenim les dades principals;
+•	Carreguem totes les curses del període.
+•	Amb BeutifulSoup obtenim les dades principals.
 •	Concatenem totes les dades dels mesos anteriors.
 
 Un cop han acabat els fils executats es concatenen tots els dataframes i generem la clau primària (ID, Any)
 Per a cada cursa fem una crida AJAX per a obtenir els detalls. Donat que és una execució molt ràpida 6 requests/segon no hem cregut oportú fer una execució paral·lela.
 Amb els detalls anem construint una dataframe amb la mateixa clau primària (id_course, annee) i finalment fem un merge amb l’inicial. Per acabar, exportem el dataframe a un fitxer CSV.
 
-![Figura 1: Disseny a alt nivell del procés](DOCX/Figure1.png)
+A la <a href="DOCX/Figure1.png">Figura 1</a> podem veure el disseny a alt nivell.
 
 ## Portabilitat
 Hem elaborat scripts per a poder executar el projecte des d'entorns Windows i MacOS. Existeix un script per a cada plataforma que instal·la els entorns i les dependències automàticament.

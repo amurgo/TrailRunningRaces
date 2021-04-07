@@ -17,9 +17,9 @@ Inicialment es parteix el període en tants subperíodes com fils d’execució 
 
 Cada fil torna a dividir el subperíode en subperíodes de 30 dies (mesos) ja que hem detectat errors quan l’explorador manegat per Selenium carregava molts continguts. Per a cada període mensual obrim una nova instància del navegador i:
 
-•	Carreguem totes les curses del període.
-•	Amb BeutifulSoup obtenim les dades principals.
-•	Concatenem totes les dades dels mesos anteriors.
+* Carreguem totes les curses del període.
+* Amb BeutifulSoup obtenim les dades principals.
+* Concatenem totes les dades dels mesos anteriors.
 
 Un cop han acabat els fils executats es concatenen tots els dataframes i generem la clau primària (ID, Any)
 Per a cada cursa fem una crida AJAX per a obtenir els detalls. Donat que és una execució molt ràpida 6 requests/segon no hem cregut oportú fer una execució paral·lela.
